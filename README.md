@@ -1,6 +1,6 @@
 # Canny Edge Detection
-### Name: SESHAN J
-### Reg NO :212224220092
+### Name: VINOLIA ALAINA. R
+### Reg NO :212224240184
 # Program
 # Canny Edge Detection in Python
 
@@ -63,7 +63,7 @@ plt.show()
 ```
 
 # Output
-<img width="800" height="790" alt="download" src="https://github.com/user-attachments/assets/4a0f72d3-98d3-4858-af53-acb5444b74b7" />
+<img width="1083" height="902" alt="image" src="https://github.com/user-attachments/assets/76f98930-4b3d-4928-8ac3-fa406b13a0b7" />
 
 
 # RESULT
