@@ -1,6 +1,6 @@
 # Canny Edge Detection
-### Name: VINOLIA ALAINA. R
-### Reg NO :212224240184
+### Name: ARAVIND P
+### Reg NO :212224240015
 # Program
 # Canny Edge Detection in Python
 
